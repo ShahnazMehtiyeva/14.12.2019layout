@@ -1,0 +1,117 @@
+
+header{
+    height: 100px;
+}
+body{
+    margin: auto;
+    margin-top: 30px;
+    width: 960px;
+    height: 1100px;
+}
+
+main{
+    width: 960px;
+    height:860px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 1px solid black;
+    
+}
+.logo{
+    width: 40%;
+    height: 100px;
+    float: left;
+}
+
+.logo>img{
+    width: 140px;
+    height: 100px;
+}
+.navigation{
+    width: 60%;
+    height: 100px;
+    float: right;
+}
+
+.navigation>ul{
+    margin-top: 35px;
+    list-style: none;
+    float: right;
+}
+.navigation>ul>li{
+    display: inline-block;
+    padding-right: 10px;
+}
+
+.baner{
+    margin-top: 15px;
+}
+
+.content-left{
+    float: left;
+    width:60%;
+    
+}
+.bottom-top{
+    height: 200px;
+}
+.content1{
+    width: 45%;
+    height: 100px;
+    float: left;
+}
+
+.content2{
+    width: 50%;
+    height: 100px;
+    float: right;
+}
+
+h4{
+    font-style: bold;
+}
+
+.bottom-top img{
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin-right: 5px;
+}
+
+.bottom-bottom{
+    clear: both;
+    width: 100%;
+}
+
+.content-right{
+    float: right;
+    width: 38%;
+}
+
+.catg>li{
+    line-height: 1.7em;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 1px solid black;
+}
+.categories>h4, .get-in-contact>h4{
+    margin-left: 20px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+}
+
+
+
+.catg2{
+    list-style: none;
+    padding-left: 20px;
+}
+
+.template{
+    margin-left: 700px;
+}
