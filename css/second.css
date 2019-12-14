@@ -1,0 +1,21 @@
+div{
+    box-sizing: border-box;
+}
+.first{
+    height: 200px;
+    background-color: aquamarine
+}
+
+.second{
+    height: 200px;
+    background-color: burlywood;
+}
+
+.third{
+    height: 200px;
+    background-color: darkcyan;
+}
+.fourth{
+    height: 200px;
+    background-color:salmon;
+}
